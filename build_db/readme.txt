@@ -1,7 +1,7 @@
 The files needed to capture the SV data include:
 
 sv_city.blend: Blender file with city and all external models packed. Requires Blender 2.77.
-	Email janicepan@utexas.edu for the link to download the .blend file;  ~640MB
+	Use this link to request to download the .blend file (~640MB): https://forms.gle/y64vnb9ikaeLhQVR9
 sv_city_capture.py: Python script to capture scenes within sv_city.blend.
 	Three customizable lines: 	line 174: savePath_SV; specifies directory to which to save image data
 								line 175: camAnglesDeg_SV; specifies rotation of the 4 cameras;
